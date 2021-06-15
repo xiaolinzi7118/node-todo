@@ -1,5 +1,12 @@
 {
-  "name": "17-node-todo",
+  "name": "linzi-node-todo",
+  "bin": {
+    "todo": "cli.js"
+  },
+  "files": [
+    "*.js",
+    "README.md"
+  ],
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
